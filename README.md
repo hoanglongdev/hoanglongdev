@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/longhv">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="hoangvanlong1702@gmail.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:hoangvanlong1702@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 <p>- 👋 Hi, I’m @hoanglongdev</p>
